@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://timops.github.io/sitemap.xml 
+Sitemap: http://blog.mystackrunnethover.com/sitemap.xml 
